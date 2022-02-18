@@ -1,3 +1,8 @@
-h1 {
-  color: blueviolet;
+body {
+  background-color: black;
+  color: seashell;
+  opacity: 0.9;
+  font-family: Helvetica, sans-serif;
+  font-size: 22px;
+  text-align: center;
 }
